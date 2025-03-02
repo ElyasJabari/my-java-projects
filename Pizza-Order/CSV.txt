@@ -1,0 +1,13 @@
+Menge;Artikel;Preis
+2;Margherita Pizza;19.18
+3;Thunfisch Pizza;26.97
+3;Vegetarisch Pizza;35.97
+3;Margherita Pizza;28.77
+8;Thunfisch Pizza;71.92
+1;Vegetarisch Pizza;11.99
+1;Margherita Pizza;9.59
+1;Thunfisch Pizza;8.99
+1;Vegetarisch Pizza;11.99
+1;Margherita Pizza;9.59
+2;Thunfisch Pizza;17.98
+0;Vegetarisch Pizza;0.0

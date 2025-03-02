@@ -1,0 +1,7 @@
+Menge;Artikel;Preis
+0;Margherita Pizza;0.0
+0;Thunfisch Pizza;0.0
+0;Vegetarisch Pizza;0.0
+3;Margherita Pizza;28.77
+0;Thunfisch Pizza;0.0
+0;Vegetarisch Pizza;0.0
