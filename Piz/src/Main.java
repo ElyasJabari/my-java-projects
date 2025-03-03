@@ -11,7 +11,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         Order bestellung;
 
-        System.out.println("Herzlich Wilkommen bei MSP Pizza\n");
+        System.out.println("Herzlich Wilkommen bei EJ Pizza\n");
         System.out.println("(1)Lieferung, (2)Abholung");
         int value = scan.nextInt();
 
@@ -44,9 +44,9 @@ public class Main {
 
         try {
             Writer writer = new FileWriter(datei, true);
-                if (datei.length() == 0) {
-                    writer.write("Menge;Artikel;Preis\n");
-                }
+            if (datei.length() == 0) {
+                writer.write("Menge;Artikel;Preis\n");
+            }
             writer.write(bestellung.toString());
             writer.flush();
         } catch (IOException e) {
