@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pizza-Order3/Pizza/Pizza.iml" filepath="$PROJECT_DIR$/Pizza-Order3/Pizza/Pizza.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pizza-Order3/Pizza-Order.iml" filepath="$PROJECT_DIR$/Pizza-Order3/Pizza-Order.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pizza-Order1/Pizza-Order1.iml" filepath="$PROJECT_DIR$/Pizza-Order1/Pizza-Order1.iml" />
