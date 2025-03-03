@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Piz/Piz.iml" filepath="$PROJECT_DIR$/Piz/Piz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pizza-Order3/Pizza/Pizza.iml" filepath="$PROJECT_DIR$/Pizza-Order3/Pizza/Pizza.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pizza-Order3/Pizza-Order.iml" filepath="$PROJECT_DIR$/Pizza-Order3/Pizza-Order.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pizza-Order1/Pizza-Order1.iml" filepath="$PROJECT_DIR$/Pizza-Order1/Pizza-Order1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pizza-order/Pizza-order.iml" filepath="$PROJECT_DIR$/Pizza-order/Pizza-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/To-Do-App/To-Do-App.iml" filepath="$PROJECT_DIR$/To-Do-App/To-Do-App.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-java-projects.iml" filepath="$PROJECT_DIR$/my-java-projects.iml" />
     </modules>
